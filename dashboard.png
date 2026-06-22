@@ -1,0 +1,48 @@
+# Sales Dashboard 2026
+
+## Project Overview
+This project is an interactive Sales Dashboard created in Microsoft Excel to analyze sales performance, profit, product categories, and regional sales trends.
+
+## Features
+- KPI Cards for Total Sales and Profit
+- Sales by Region Analysis
+- Sales by Category Analysis
+- Monthly Sales Trend Chart
+- Interactive Slicers for filtering data
+- Dynamic Pivot Tables and Pivot Charts
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Dashboard Design
+
+## Key Insights
+- Total Sales: ₹556,000
+- Total Profit: ₹22,500
+- West Region generated the highest sales.
+- Electronics category contributed the majority of sales.
+
+## Dashboard Components
+1. KPI Cards
+2. Sales by Region Chart
+3. Sales by Category Chart
+4. Monthly Sales Trend Chart
+5. Interactive Filters (Slicers)
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Creation
+- Business Reporting
+
+## Screenshot
+dashboard.png)
+
+## Author
+Ramya Reddy
+MBA Finance
+Aspiring Data Analyst
