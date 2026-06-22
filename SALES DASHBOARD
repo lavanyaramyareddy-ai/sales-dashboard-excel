@@ -1,0 +1,43 @@
+# Sales Dashboard 2026
+
+## Project Overview
+This project is an interactive Sales Dashboard created in Microsoft Excel to analyze and visualize sales performance. The dashboard provides insights into sales trends, profit, product categories, and regional performance through dynamic charts and KPI cards.
+
+## Objectives
+- Monitor Total Sales and Profit
+- Analyze sales by region and category
+- Track monthly sales trends
+- Enable interactive filtering using slicers
+
+## Key Features
+- KPI Cards (Total Sales, Profit)
+- Pivot Tables and Pivot Charts
+- Sales by Region Analysis
+- Sales by Category Analysis
+- Monthly Sales Trend Analysis
+- Interactive Slicers for filtering data
+- User-friendly dashboard design
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+
+## Business Insights
+- Identified top-performing regions based on sales.
+- Compared category-wise sales contribution.
+- Tracked sales trends across different periods.
+- Improved data-driven decision-making through interactive reporting.
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Dashboard Design
+- KPI Reporting
+- Excel Reporting
+
+## Author
+Ramya Reddy
